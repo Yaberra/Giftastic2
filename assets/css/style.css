@@ -1,0 +1,44 @@
+.afv {
+
+font-family:'Shadows Into Light Two', cursive;
+font-style: color:rgb(201,78,97);
+width:100px;
+background-color: rgb(201,78,97);
+font-size: 18px;
+
+
+}
+
+
+
+h1 {
+	font-family:'Shadows Into Light Two', cursive;
+	color:rgb(255,255,255);
+
+}
+
+h3 {
+
+	font-family:'Shadows Into Light Two', cursive;
+	
+}
+
+h5 {
+
+	font-family:'Shadows Into Light Two', cursive;
+
+
+}
+
+.btn-primary {
+	
+			background-color: rgb(201,78,97); 
+
+}
+
+#movie-view {
+
+	background-color: rgb(105,105,105);
+	height:400px;
+}
+
